@@ -1,4 +1,4 @@
-# FROM alpine
+FROM alpine
 MAINTAINER smounives <smounives@outlook.com>
 
 RUN set -ex \
